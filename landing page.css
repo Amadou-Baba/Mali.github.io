@@ -1,8 +1,9 @@
 body{
-    background-image: url(./Mali/mali-ornament.jpg);
-    background-repeat:no-repeat;
-    background-size: 1400px 750px;
-    font-size: 2em;
+/*     background-image: url(./Mali/mali-ornament.jpg); */
+/*     background-repeat:no-repeat; */
+/*     background-size: 1400px 750px; */
+/*     font-size: 2em; */
+    background-color: green;
 }
 .container{
     height: 700px;
