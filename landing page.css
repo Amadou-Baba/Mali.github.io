@@ -1,6 +1,4 @@
 body{
-    /* background-image: url(./Mali/drapeau2-Mali.jpg); */
-    /* background-image: url(./Mali/mali-travel.jpg); */
     background-image: url(./Mali/mali-ornament.jpg);
     background-repeat:no-repeat;
     background-size: 1400px 750px;
@@ -9,17 +7,6 @@ body{
 .container{
     height: 700px;
 }
-/* @keyframes body{ */
-    /* 0%{ */
-        /* background-color: green; */
-    /* } */
-    /* 50%{ */
-        /* background-color: yellow; */
-    /* } */
-    /* 100%{ */
-        /* background-color:red; */
-    /* } */
-/* } */
 .header{
     min-width: 800px;
     margin-top: 0;
